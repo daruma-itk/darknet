@@ -1,0 +1,6 @@
+classes= 4
+train = cfg/cube_train.txt
+valid = cfg/cube_test.txt
+names = data/cube.names
+backup = backup
+
